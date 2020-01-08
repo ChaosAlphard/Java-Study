@@ -10,6 +10,8 @@ public class 继承 {
         System.out.println(person.showInfo());
         System.out.println(s1.toString());
         System.out.println(s2.showInfo());
-        System.out.println(s2.school);
+
+
+        new Student().new SmallStudent();
     }
 }
